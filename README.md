@@ -1,5 +1,3 @@
-![Data and policy Analyst](https://media.licdn.com/dms/image/D4D03AQHL6QzFS7N3EA/profile-displayphoto-shrink_400_400/0/1701773716127?e=1720051200&v=beta&t=hxgkBZjvFw_g2ZEWU71xkK0eFZOWKYRZ95QO4DoZTwI)
-
 # Otto Dodoo 
 I'm Otto, originally from Ghana and now based in Germany. With a background in policy analysis and project management, I'm excited to transition into data analysis.
 
